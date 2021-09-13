@@ -1,0 +1,26 @@
+id: test_dummy_tech_doc
+emf_type: tech_doc
+emf_public: true
+emf_automatized: true
+emf_reproducible: true
+emf_draft: false
+nodes: ''
+authors:
+- vgranda
+- emf
+authors_aff:
+- CREAF
+- CREAF
+resource_link: tech_docs/test_dummy_tech_doc
+thematic: dummy
+tags:
+- style
+- dummy
+- dummydummy
+requirements: ''
+description: 'A dummy tech doc for testing'
+title: Test dummy tech doc
+date: '2021-09-13'
+date_lastmod: '2021-09-13'
+categories: tech_doc
+
