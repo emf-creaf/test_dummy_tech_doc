@@ -8,9 +8,6 @@ nodes: ''
 authors:
 - vgranda
 - emf
-authors_aff:
-- CREAF
-- CREAF
 resource_link: tech_docs/test_dummy_tech_doc
 thematic: dummy
 tags:
@@ -18,6 +15,8 @@ tags:
 - dummy
 - dummydummy
 requirements: ''
+links:
+  url_doi: ''
 description: 'A dummy tech doc for testing'
 title: Test dummy tech doc
 date: '2021-09-13'
